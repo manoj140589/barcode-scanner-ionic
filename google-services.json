@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043845084062",
+    "firebase_url": "https://fabled-essence-268204.firebaseio.com",
+    "project_id": "fabled-essence-268204",
+    "storage_bucket": "fabled-essence-268204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043845084062:android:20fa8808881b0b46c21c8f",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043845084062-7vdbrvne9rq4085gv1mp3nqrrgb21cvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1PqRRWyFH56KormEWnl1eIbeF0w-XcB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043845084062-7vdbrvne9rq4085gv1mp3nqrrgb21cvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
